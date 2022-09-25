@@ -380,6 +380,24 @@ if(!isset($_SESSION['user'])){
       </section>
     </section>
   </div>
+   
+   <!--Form-->
+     <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRar5hSPtj7GXT75b-GcZQ7z-S48Rx3PCMuDCx0yBSb9DAachiqeNo2eCapPXgMBmnVJQkj1CFHfsiU/pubhtml?widget=true&amp;headers=false" style="border:none;" height="1000pc" width="100%"></iframe>
+
+<!--footer-->   
+   <style>
+  footer {
+  text-align: center;
+  color: white;
+  padding: 3px;
+  background-color: black;
+  
+}
+</style>
+    <footer>
+  <p style="font-family: ;tajawal">Developed By : VBLAZE<br>
+ <center> <a href="stmvblaze@gmail.com">stmvblaze@gmail.com</a></p><center>
+</footer>
 
       <!-- Swiper JS -->
       <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
